@@ -9,3 +9,5 @@
 ### 前往[往世乐土](https://babutianya.github.io/Page-1)
 
 ### 前往[Minecraft Clock](https://babutianya.github.io/Page-2)
+
+### 前往[神秘の视频区](https://babutianya.github.io/Page-3)
