@@ -1,6 +1,5 @@
 
 ### 这是一个普通并简单的界面。
-### 你也可以把它当成一个404界面
 
 
 
@@ -13,3 +12,5 @@
 ### 前往[神秘の视频区](https://babutianya.github.io/Page-3)
 
 ### 前往[天涯海角论坛](https://bbs.457617.xyz)
+
+### 前往[我用Gitee搭的](https://babutianya.gitee.io)
