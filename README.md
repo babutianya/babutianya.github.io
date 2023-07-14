@@ -17,3 +17,5 @@
 
 ### 前往[天涯海角论坛](https://bbs.457617.xyz)
 
+### 前往[博客](https://babutianya.github.io/blog)
+
