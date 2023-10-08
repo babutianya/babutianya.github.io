@@ -3,7 +3,7 @@
 
 
 
-## 当然也可以使用[传送门](https://babutianya.github.io/)访问其他界面
+## 你可以使用[传送门](https://babutianya.github.io/)访问其他界面
 
 ### 前往[回收站](https://babutianya.github.io/Page-0)
 
